@@ -8,13 +8,13 @@
   "features": [
     {
       "type": "Feature",
-     
+      "properties": {},
       "geometry": {
-        "type": "Point",
         "coordinates": [
-         -0.418611325730069,
-          51.88559801583179
-        ]
+          -0.41762380876159,
+          51.880769866268736
+        ],
+        "type": "Point"
       }
     }
   ]
