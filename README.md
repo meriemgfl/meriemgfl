@@ -1,4 +1,7 @@
 ### Hi there 👋
+## About me
+### I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.
+
 
 <!--
 **meriemgfl/meriemgfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##About me
-I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.
