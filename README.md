@@ -8,20 +8,12 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
+     
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
+         -0.418611325730069,
+          51.88559801583179
         ]
       }
     }
