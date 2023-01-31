@@ -3,8 +3,7 @@
 <!--
 **meriemgfl/meriemgfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##About me
-I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.  
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##About me
+I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.
