@@ -3,7 +3,7 @@
  I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.
  
  ![](https://komarev.com/ghpvc/?username=meriemgfl&style=flat&color=grey&label=Views+count)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meriemgfl&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=meriemgfl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -11,7 +11,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meriemgfl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meriemgfl&theme=dark)](https://git.io/streak-stats)
 
 
 
