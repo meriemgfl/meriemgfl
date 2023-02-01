@@ -2,6 +2,7 @@
 ## About me
  I am an aspiring Software engineer, passionate about learning and perfecting my skillset, drawn by problem-solving and concretising ideas into projects.
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriemgfl)](https://github.com/anuraghazra/github-readme-stats)
  ![](https://komarev.com/ghpvc/?username=meriemgfl&style=flat&color=grey&label=Views+count)
 
 
