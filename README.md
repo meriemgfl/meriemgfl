@@ -16,10 +16,7 @@
 
 
 
-
-
-## Location
-  
+<details><summary>## Location</summary>
  ```geojson
 {
   "type": "FeatureCollection",
@@ -38,4 +35,9 @@
   ]
 }
 ```
+</details>
+
+
+  
+
 
