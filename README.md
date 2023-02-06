@@ -19,30 +19,3 @@
 
 
 
-## Location
-
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -0.41762380876159,
-          51.880769866268736
-        ],
-        "type": "Point"
-      }
-    }
-  ]
-}
-```
-
-
-
-
-  
-
-
