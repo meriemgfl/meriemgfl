@@ -84,7 +84,7 @@ A personal developer portfolio built with Flask and deployed to Render.
 
 - 💼 LinkedIn — [Let's connect!](https://www.linkedin.com/in/meriem-g-b83515213/)
 - 🌐 Portfolio — [Check my projects!](https://python-portfolio-wd2q.onrender.com/)
-- 📧 Email — [Let's keep in touch!](meryg2019@gmail.com)
+- 📧 Email — [Email me through the form.]
 
 ---
 
